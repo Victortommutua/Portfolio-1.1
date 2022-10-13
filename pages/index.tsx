@@ -30,7 +30,7 @@ const Home = ({pageInfo, experiences, projects, skills, socials}: Props)=>  {
     snap-y snap-mandatory overflow-y-scroll overflow-x-hidden z-0 
     scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80'>
       <Head>
-        <title>Victor's Portfolio</title>
+        <title>Sirvic's Portfolio</title>
       </Head>
       <Header socials={socials}/>
       {/* Hero*/}

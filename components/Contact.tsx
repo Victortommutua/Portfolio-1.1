@@ -42,7 +42,7 @@ const onSubmit: SubmitHandler<Inputs> = (formData) => {
 
                 <div className='flex items-center space-x-5 justify-center'>
                 <EnvelopeIcon className='h-7 w-7 animate-pulse text-[#F7AB0A]'/>
-                <p className='text-2xl'>Westlands</p>
+                <p className='text-2xl'>Nairobi</p>
                 </div>
 
             </div>
